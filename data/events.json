@@ -1,0 +1,62 @@
+[
+    {
+        "event_id": "EVT001",
+        "name": "Music Festival",
+        "description": "you can already guess from the name what is it about.... Enjoy ur time guys.",
+        "date": "02 December",
+        "time": "8 pm",
+        "venue": "City University",
+        "price": 30.0,
+        "capacity": 100
+    },
+    {
+        "event_id": "EVT002",
+        "name": "Tech Innovation Fest",
+        "description": "A technology-focused festival where students present their creative ideas and technical skills. Participants showcase robotics projects, develop software, demonstrate applications, participate in coding competitions, and present innovative inventions.",
+        "date": "10 December",
+        "time": "10 am",
+        "venue": "City University",
+        "price": 20.0,
+        "capacity": 50
+    },
+    {
+        "event_id": "EVT003",
+        "name": "Art and Photography Festival",
+        "description": "A creative festival where students display their artistic abilities. Participants exhibit paintings, drawings, digital artwork, and photographs. They can also join art competitions, live sketching sessions, and photography challenges.",
+        "date": "15 December",
+        "time": "10 pm",
+        "venue": "City University",
+        "price": 15.0,
+        "capacity": 30
+    },
+    {
+        "event_id": "EVT004",
+        "name": "Food Festival",
+        "description": "A festival where students explore different cuisines and cooking traditions. Participants set up food stalls, prepare traditional dishes, sell snacks, participate in cooking competitions, and allow visitors to taste different foods.",
+        "date": "20 December",
+        "time": "10 Am",
+        "venue": "City University",
+        "price": 25.0,
+        "capacity": 70
+    },
+    {
+        "event_id": "EVT005",
+        "name": "Talent Show Festival",
+        "description": "A festival where students demonstrate their unique talents and abilities. Participants perform singing, dancing, acting, magic tricks, comedy, poetry, and other creative performances in front of an audience.",
+        "date": "17 December",
+        "time": "8 pm",
+        "venue": "City University",
+        "price": 20.0,
+        "capacity": 1000
+    },
+    {
+        "event_id": "EVT006",
+        "name": "test event 14",
+        "description": "im hella tierd",
+        "date": "20 nov",
+        "time": "9 pm",
+        "venue": "ciy uni",
+        "price": 5.0,
+        "capacity": 20
+    }
+]

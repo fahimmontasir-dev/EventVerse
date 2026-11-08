@@ -1,0 +1,21 @@
+# Private credentials
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+.vscode/
+*.DS_Store
+
+#backup file
+backup.py
+
+#test email file
+test.email.py

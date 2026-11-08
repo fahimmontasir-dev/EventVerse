@@ -1,0 +1,60 @@
+[
+    {
+        "student_id": "STU001",
+        "full_name": "Aaron Moontasir",
+        "username": "aaron0001",
+        "email": "dummy02@gmail.com",
+        "password_hash": "c9231c155ea70f7bc894d1489de80b92772668a24c02d0aa8c40117d5b20432a",
+        "password_salt": "32d5f354f6515b97218a14712feb54f2"
+    },
+    {
+        "student_id": "STU002",
+        "full_name": "Olivia Rodrigo",
+        "username": "olivia",
+        "email": "oliviarodrigo@gmail.com",
+        "password_hash": "792eaf65c2c1fd9a7fa595177e660f650dd6608bdd59ec6c5875af2e4b461012",
+        "password_salt": "276c0ed153fabb6939fbea51bbedac18"
+    },
+    {
+        "student_id": "STU003",
+        "full_name": "Anne Moontasir",
+        "username": "anne",
+        "email": "annemoontasir@gmail.com",
+        "password_hash": "29e9470c2326544cc918b8e519670fb12c0aae4b060c4824fb400dd92407fb3c",
+        "password_salt": "3cd81578e3fdd6f2fef243f9e9261058"
+    },
+    {
+        "student_id": "STU004",
+        "full_name": "Natasha Moontasir",
+        "username": "natasha",
+        "email": "natashamoontasir@gmail.com",
+        "password_hash": "9ede0a15abbedbfe0f6865925dc821c2bb56045c6e258dfdb83c1ead07184f6d",
+        "password_salt": "2e0b158bb680129d8298df37a641695f"
+    },
+    {
+        "student_id": "STU005",
+        "full_name": "Tawhidul Islam",
+        "username": "tawhid",
+        "email": "dummy21@gmail.com",
+        "password_hash": "38776504287daf57124e54575116e77005d851fe07f7de566abaa36bece1686f",
+        "password_salt": "674e954cd9483350ca2b230432514a7b"
+    },
+    {
+        "student_id": "STU006",
+        "full_name": "Saira Moontasir",
+        "username": "saira",
+        "email": "dummy@gmail.com",
+        "password_plaintext": "saira1234",
+        "password_hash": "cf4653e8ac873110378abf45c68771c8cc9cf55f684f57e312a292550b29413c",
+        "password_salt": "29fa561303707f98c193560e36733c05"
+    },
+    {
+        "student_id": "STU007",
+        "full_name": "Rahat Nor",
+        "username": "rahat",
+        "email": "dummy01@gmail.com",
+        "password_plaintext": "rahat1234",
+        "password_hash": "7ac16bc817385b3b959e6b610428ff57640206556933a1c1c2b6bcd5e2fa8b50",
+        "password_salt": "b36ccd3364e33fe67d029c108556fc66"
+    }
+]

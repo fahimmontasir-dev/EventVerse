@@ -1,0 +1,79 @@
+[
+    {
+        "registration_id": "REG001",
+        "ticket_id": "TKT1B9CE2C6",
+        "student_id": "STU002",
+        "event_id": "EVT001",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG002",
+        "ticket_id": "TKT28C20769",
+        "student_id": "STU002",
+        "event_id": "EVT005",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG003",
+        "ticket_id": "TKT68E9EBC0",
+        "student_id": "STU003",
+        "event_id": "EVT001",
+        "attendance": "Absent"
+    },
+    {
+        "registration_id": "REG004",
+        "ticket_id": "TKT6AA2BAA2",
+        "student_id": "STU003",
+        "event_id": "EVT002",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG005",
+        "ticket_id": "TKT2EC37CB0",
+        "student_id": "STU003",
+        "event_id": "EVT003",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG006",
+        "ticket_id": "TKTDBE81BCD",
+        "student_id": "STU002",
+        "event_id": "EVT002",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG007",
+        "ticket_id": "TKTB97A05F6",
+        "student_id": "STU002",
+        "event_id": "EVT003",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG008",
+        "ticket_id": "TKT0311DDE1",
+        "student_id": "STU002",
+        "event_id": "EVT004",
+        "attendance": "Present"
+    },
+    {
+        "registration_id": "REG009",
+        "ticket_id": "TKT36DD8100",
+        "student_id": "STU004",
+        "event_id": "EVT001",
+        "attendance": "Absent"
+    },
+    {
+        "registration_id": "REG010",
+        "ticket_id": "TKT57C1D446",
+        "student_id": "STU004",
+        "event_id": "EVT002",
+        "attendance": "Not Marked"
+    },
+    {
+        "registration_id": "REG011",
+        "ticket_id": "TKT58C431C7",
+        "student_id": "STU004",
+        "event_id": "EVT003",
+        "attendance": "Not Marked"
+    }
+]

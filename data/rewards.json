@@ -1,0 +1,19 @@
+[
+    {
+        "student_id": "STU002",
+        "total_points": 350,
+        "events_attended": 5,
+        "student_level": "Bronze",
+        "badges": [
+            "First Step",
+            "Event Explorer"
+        ]
+    },
+    {
+        "student_id": "STU004",
+        "events_attended": 0,
+        "total_points": 0,
+        "student_level": "Beginner",
+        "badges": []
+    }
+]
